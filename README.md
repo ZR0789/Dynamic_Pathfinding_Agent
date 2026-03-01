@@ -7,41 +7,26 @@ This project was developed to bridge the gap between theoretical AI search conce
  Overview
 
 Unlike basic pathfinding visualizers, Dynamic Agent introduces:
-
  Support for informed search (A* and Greedy Best-First Search)
-
  Multiple heuristics (Manhattan & Euclidean)
-
  Dynamic obstacle spawning during execution
-
  Real-time replanning
-
  Fully interactive UI with performance metrics
 
 It is designed for students studying Artificial Intelligence, Search Algorithms, or Heuristic Optimization.
  Features
  Interactive Grid Environment
-
 Adjustable grid size (rows & columns)
-
 Adjustable obstacle density
-
 Click-to-edit cells:
-
 Walls
-
 Start node
-
 Goal node
-
 Optional coordinate display
 
  Implemented Algorithms
-
 The system visualizes the following informed search algorithms:
-
 A* (A-Star Search)
-
 Greedy Best-First Search (GBFS)
 
 Both algorithms operate in the same environment for easy comparison.
